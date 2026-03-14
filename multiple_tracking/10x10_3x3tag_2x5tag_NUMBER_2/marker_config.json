@@ -1,8 +1,0 @@
-{
-  "mapping_npz": "tracking_rec_test_20251027_132318.npz",
-  "id_base": 2001,
-  "origin_marker_id": 2017,
-  "x_axis_marker_id": 2034,
-  "y_axis_marker_id": 2021,
-  "cell_size_mm": 0.5
-}
