@@ -18,7 +18,7 @@ The HydraMarker concept and original generation and detection algorithms were de
 
 
 
-The \*\*marker generation, detection and identification scripts\*\* in this repository (`generator\_hydra\_marker\_SV.py`, `GenerateMarker\_SV.py`, 'ReadMarker\_SV') are a Python port of the original C++/MATLAB implementation. All \*\*mapping (SfM), and tracking algorithms\*\* were developed independently by the author of this repository.
+The \*\*marker generation, detection and identification scripts\*\* in this repository (`generator\_hydra\_marker\_SV.py`, `GenerateMarker\_SV.py`, `ReadMarker\_SV`) are a Python port of the original C++/MATLAB implementation. All \*\*mapping (SfM), and tracking algorithms\*\* were developed independently by the author of this repository.
 
 
 
